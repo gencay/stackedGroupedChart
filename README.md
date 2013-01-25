@@ -17,6 +17,9 @@ You can modify each group's stacks using innerColumns Object.
   
     }
 
+Gist
+====
+https://gist.github.com/4629518#file-index-html
 
 Demo
 ====
